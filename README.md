@@ -13,6 +13,7 @@ Team Members:
 4. Lijju Mathews
 
 Case study 1:
-      Build basic regressions model and regularized model with ridge and lasso 
+      
+      Build a linear regression model using L1 or L2 regularization (or both) to predict the critical temperature. In addition, include in your write-up which variable carries the most importance.
 
 
