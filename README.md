@@ -10,7 +10,7 @@ Team Members:
 1. Benjamin Goodwin
 2. Pradeep kumar
 3. Sid Swarupananda
-4. Lijju Mathews
+4. Lijju Mathew
 
 Case study 1:
       
